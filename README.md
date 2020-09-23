@@ -1,2 +1,0 @@
-# BlackErrorDdos
-Ddos Attacker
